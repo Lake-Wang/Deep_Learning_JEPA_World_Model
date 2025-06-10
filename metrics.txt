@@ -1,0 +1,7 @@
+probe_normal val loss: 3.1588263511657715
+probe_wall val loss: 6.307409286499023
+wall_other val loss: 7.0600481033325195
+expert val loss: 15.251108169555664
+# number of trainable parameters of your model: 477,664
+# training command to replicate your submitted model (may differ due to random seed, but performance should be close):
+python train.py

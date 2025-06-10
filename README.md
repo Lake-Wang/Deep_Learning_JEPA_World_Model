@@ -1,1 +1,1 @@
-# Deep_Learning_JEPA_World_Model
+# dsga1008-final-competition
