@@ -1,1 +1,1 @@
-# dsga1008-final-competition
+# JEPA World Model
